@@ -31,9 +31,6 @@ Production-grade automation workflows built with n8n, demonstrating API integrat
 3. Connect alert output to Slack/Email/Telegram as needed
 4. Activate the workflow
 
-## About
-
-Built by Tobenna Onyiriuba — IT Infrastructure & Integrations Engineer specializing in cross-platform automation, API integrations, and AI-powered workflows.
 
 ## Workflow 2: Prop Firm Crypto Market Monitor
 
@@ -64,3 +61,8 @@ Built by Tobenna Onyiriuba — IT Infrastructure & Integrations Engineer special
 2. Adjust price thresholds in the Transform Price Data node
 3. Connect alert output to Slack/Email/Telegram
 4. Activate the workflow
+
+
+## About
+
+Built by Tobenna Onyiriuba — IT Infrastructure & Integrations Engineer specializing in cross-platform automation, API integrations, and AI-powered workflows.
